@@ -52,10 +52,8 @@
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidura13&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidura13&show_icons=true&theme=dark)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vidura13&theme=dark" alt="GitHub Streak" /></a>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidura13&show_icons=true&locale=en" alt="vidura13" /></p>
 
 <!--
 **vidura13/vidura13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
