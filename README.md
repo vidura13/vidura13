@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidura13&show_icons=true&locale=en" alt="vidura13" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidura13&" alt="vidura13" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidura13)](https://git.io/streak-stats)
 
 
 <!--
