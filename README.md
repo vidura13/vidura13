@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vidura Abeysinghe</h1>
+<h1 align="center">Hello there 👋, I'm Vidura Abeysinghe</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidura13&label=Profile%20views&color=0e75b6&style=flat" alt="vidura13" /> </p>
 
