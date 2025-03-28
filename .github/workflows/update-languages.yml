@@ -1,0 +1,25 @@
+name: Update Language Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs once a day (optional)
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch Most Used Languages
+        run: |
+          curl -o top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=vidura13&layout=compact&theme=dark&count_private=true&token=${{ secrets.GH_STATS_TOKEN }}"
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add top-langs.svg
+          git commit -m "Updated Most Used Languages"
+          git push
