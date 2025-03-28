@@ -52,6 +52,8 @@
 
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=XynoxTheDev&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashidul738&theme=dark)](https://git.io/streak-stats)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidura13&show_icons=true&locale=en" alt="vidura13" /></p>
 
 <!--
