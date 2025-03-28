@@ -54,7 +54,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidura13&show_icons=true&theme=dark)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vidura13&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <!--
 **vidura13/vidura13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
