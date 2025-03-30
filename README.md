@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Vidura Abeysinghe, Welcome to my GitHub profile!</h1>
+<h1 align="center">Hello there 👋, I'm Vidura Abeysinghe,<br> Welcome to my GitHub profile!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidura13&label=Profile%20views&color=0e75b6&style=flat" alt="vidura13" /> </p>
 
@@ -54,7 +54,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidura13&show_icons=true&theme=dark)
 
-<h1 align="left">Thanks for visiting my GitHub profile, and I look forward to connect with you. Feel free to reach out to me — let's start a conversation!</h1>
+<h3 align="left">Thanks for visiting my GitHub profile, and I look forward to connect with you. Feel free to reach out to me — let's start a conversation!</h3>
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=vidura13)](https://git.io/streak-stats)-->
 
