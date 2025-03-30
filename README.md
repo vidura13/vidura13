@@ -54,7 +54,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidura13&show_icons=true&theme=dark)
 
-<h3 align="left">Thanks for visiting my GitHub profile, and I look forward to connect with you. Feel free to reach out to me — let's start a conversation!</h3>
+<h3 align="left">Thanks for visiting my GitHub profile, and I look forward to connect with you. Feel free to reach out to me - let's start a conversation!</h3>
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=vidura13)](https://git.io/streak-stats)-->
 
