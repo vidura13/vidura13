@@ -38,7 +38,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Testing :</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,postman,swagger"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,jest,postman"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
